@@ -1,4 +1,10 @@
-# 第一周
+# 第一周 任务
++ https://leetcode-cn.com/problems/move-zeroes/
++ https://leetcode-cn.com/problems/3sum/ (高频老题）
++ https://leetcode.com/problems/reverse-linked-list/
+
+
+# 习题列表
 Array 实战题目
 + https://leetcode-cn.com/problems/container-with-most-water/
 + https://leetcode-cn.com/problems/move-zeroes/
