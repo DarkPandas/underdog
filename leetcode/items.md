@@ -23,6 +23,12 @@ Linked List 实战题目
 
 # 算法大赛
 
+### 2020.12
+https://leetcode-cn.com/problems/add-digits/（简单）
+https://leetcode-cn.com/problems/triangle/ (中等)
+https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences/ (困难)
+https://leetcode-cn.com/problems/lfu-cache/ (想要做O(1)，困难)
+
 ### 2020.11
 + https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/（简单）
 + https://leetcode-cn.com/problems/3sum-with-multiplicity/（中等）
