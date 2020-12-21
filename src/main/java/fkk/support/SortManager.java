@@ -1,4 +1,4 @@
-package fkk;
+package fkk.support;
 
 public class SortManager {
 
