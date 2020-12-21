@@ -3,8 +3,9 @@
 
 ## CheckList
 
-* [x] [LC15.三数之和](https://leetcode-cn.com/problems/3sum/)
-* [x] [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+* [x] [LC15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+* [x] [LC206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+* [x] [LC283. 移动0](https://leetcode-cn.com/problems/move-zeroes/)
 
 #### tips: 
 
