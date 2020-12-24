@@ -38,6 +38,57 @@ public class LC283 {
             }
 
         }
+    }
 
+    /**
+     * 双指针
+     */
+    public static void solution2(int[] nums) {
+        int indexNow = 0;
+        int indexNum = 0;
+        int m = nums.length;
+
+        while (indexNum < m) {
+            if (nums[indexNum] != 0) {
+                nums[indexNow++] = nums[indexNum];
+            }
+            ++indexNum;
+        }
+
+        for (int i = indexNow; i < m; i++) {
+            nums[i] = 0;
+        }
+    }
+
+
+    /**
+     * 快慢指针，
+     * 1. 快指针跟随遍历前进
+     * 2. 慢指针，只有快指针发现不为零的元素时才交换元素前进1.
+     */
+    public static void solution3(int[] nums) {
+        int fast = 0;
+        int slow = 0;
+        while (fast < nums.length) {
+            if (nums[fast] != 0) {
+                swap(nums, fast, slow);
+                slow++;
+            }
+            fast++;
+        }
+    }
+
+    private static void swap(int[] nums, int a, int b) {
+        if (a == b) {
+            return;
+        }
+        int temp = nums[a];
+        nums[a] = nums[b];
+        nums[b] = temp;
+    }
+
+    public static void main(String[] args) {
+        int[] data = new int[]{1, 0, 1, 0, 3, 12};
+        solution2(data);
     }
 }
