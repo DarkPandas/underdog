@@ -1,3 +1,8 @@
+## 2021-1-4
++ https://leetcode-cn.com/problems/valid-anagram/description/
++ https://leetcode-cn.com/problems/group-anagrams/
++ https://leetcode-cn.com/problems/two-sum/description/
+
 # 第一周 任务
 + https://leetcode-cn.com/problems/move-zeroes/
 + https://leetcode-cn.com/problems/3sum/ (高频老题）
@@ -11,7 +16,6 @@
 ## 2020-12-22更新
 https://leetcode-cn.com/problems/largest-rectangle-in-histogram
 https://leetcode-cn.com/problems/sliding-window-maximum
-
 
 
 
