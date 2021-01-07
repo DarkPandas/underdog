@@ -10,6 +10,7 @@
 * [x] [LC141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 * [x] [LC142. 环形链表 II]( https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 * [x] [LC206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+* [x] [LC242. 有效的异位词](https://leetcode-cn.com/problems/valid-anagram/)
 * [x] [LC283. 移动0](https://leetcode-cn.com/problems/move-zeroes/)
 
 #### tips: 
