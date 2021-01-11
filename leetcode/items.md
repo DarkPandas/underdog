@@ -1,3 +1,8 @@
+## 2021-1-11
+https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
+https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+https://leetcode-cn.com/problems/combinations/
+
 ## 2021-1-4
 + https://leetcode-cn.com/problems/valid-anagram/description/
 + https://leetcode-cn.com/problems/group-anagrams/
@@ -33,6 +38,18 @@ Linked List 实战题目
 + https://leetcode.com/problems/linked-list-cycle
 + https://leetcode.com/problems/linked-list-cycle-ii
 + https://leetcode.com/problems/reverse-nodes-in-k-group/
+
+
+https://leetcode-cn.com/problems/permutations/
+https://leetcode-cn.com/problems/permutations-ii/
+
+
+https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
+https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+https://leetcode-cn.com/problems/combinations/
+https://leetcode-cn.com/problems/permutations/
+https://leetcode-cn.com/problems/permutations-ii/
+
 
 # 算法大赛
 
