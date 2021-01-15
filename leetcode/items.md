@@ -1,3 +1,5 @@
+> 该文档为典型题 后续记得催更，新开专项坑，移步文档 special.md
+
 ## 2021-1-1
 https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/
 
