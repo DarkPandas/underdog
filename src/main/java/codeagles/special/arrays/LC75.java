@@ -1,4 +1,4 @@
-package codeagles.special;
+package codeagles.special.arrays;
 
 import java.util.Arrays;
 

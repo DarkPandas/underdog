@@ -1,4 +1,4 @@
-package codeagles.special;
+package codeagles.special.arrays;
 
 /**
  * Created with IntelliJ IDEA.
