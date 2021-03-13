@@ -1,3 +1,8 @@
+> 该文档为典型题 后续记得催更，新开专项坑，移步文档 special.md
+
+## 2021-1-1
+https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/
+
 ## 2021-1-11
 https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
 https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
