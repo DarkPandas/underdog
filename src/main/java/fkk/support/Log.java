@@ -15,4 +15,8 @@ public class Log {
     public static void w(String msg) {
         System.out.print(msg);
     }
+
+    public static void w(int msg) {
+        System.out.print("" + msg);
+    }
 }
